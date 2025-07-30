@@ -1,5 +1,6 @@
-# Firebase Studio
+MY PORTFOLIO 
 
-This is a NextJS starter in Firebase Studio.
+This is a NextJS Project
 
-To get started, take a look at src/app/page.tsx.
+<img width="1912" height="966" alt="image" src="https://github.com/user-attachments/assets/a8282ffb-d00b-44e2-b473-ed200bd97ce9" />
+
